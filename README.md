@@ -1,7 +1,6 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&fontSize=110&text=✨kea✨&fontAlign=60&rotate=13&fontAlignY=19&desc=frontend%20developer&descSize=55&descAlign=72&descAlignY=45"/>
 </p>
-
 <h3 align="center">🛠️ 기술 스택 🛠️</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -40,6 +39,8 @@
  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 </br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenisamazing)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenisamazing&layout=compact&theme=dracula)
 </br>
 </br>
 <div align="center">
