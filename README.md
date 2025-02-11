@@ -43,7 +43,19 @@
 </br>
 </br>
 <div align="center">
-<img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="60">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="35">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="45">	
+</div>
+<div align="center"> 
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="35">
+ <img src="https://cultofthepartyparrot.com/assets/sirocco.gif" width="60">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="45">
+</div>
+<div align="center">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="45">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="60">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="35">	
 </div>
 </br>
 </br>
