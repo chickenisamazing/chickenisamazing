@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&fontSize=75&text=chickenisamazing&fontAlign=65&rotate=13&fontAlignY=25&desc=frontend%20developer&descSize=45&descAlign=60&descAlignY=44"/>
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&fontSize=110&text=✨kea✨&fontAlign=60&rotate=13&fontAlignY=19&desc=frontend%20developer&descSize=55&descAlign=72&descAlignY=46"/>
 </p>
 
 <h3 align="center">🛠️ 기술 스택 🛠️</h3>
@@ -28,7 +28,7 @@
  <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
  <img src="https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white" />
 </div> -->
-<h3 align="center">✨ 협업툴 ✨</h3>
+<h3 align="center">🤗 협업툴 🤗</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
