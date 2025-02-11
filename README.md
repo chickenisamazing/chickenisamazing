@@ -39,8 +39,6 @@
  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenisamazing)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenisamazing&layout=compact&theme=dracula)
 </br>
 </br>
 <div align="center">
@@ -61,6 +59,11 @@
 </br>
 </br>
 </br>
+</br>
+</br>
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchickenisamazing%2Fhit-counter&count_bg=%23E1E2E0&title_bg=%23969494&icon=next-dot-js.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false"/></a>
+</div>
 </br>
 </br>
 </br>
