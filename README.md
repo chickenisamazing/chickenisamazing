@@ -61,9 +61,3 @@
 </br>
 </br>
 </br>
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchickenisamazing%2Fhit-counter&count_bg=%23E1E2E0&title_bg=%23969494&icon=next-dot-js.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false"/></a>
-</div>
-</br>
-</br>
-</br>
