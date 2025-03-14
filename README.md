@@ -45,39 +45,39 @@
 </br>
 </br>
 <div align="center">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">	
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
 </div>
 <div align="center">
-<img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
  <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
  <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
 </div>
 <div align="center"> 
-<img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
  <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
  <img src="https://cultofthepartyparrot.com/assets/sirocco.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
  <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
 </div>
 <div align="center">
-<img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
  <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
 </div>
 <div align="center">
-<img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">	
- <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="40">
+  <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
+ <img src="https://cultofthepartyparrot.com/parrots/nextparrot.gif" width="40">
 </div>
 </br>
 </br>
