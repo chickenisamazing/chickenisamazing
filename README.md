@@ -1,6 +1,7 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=CEAFE8&height=150&fontSize=110&text=✨kea✨&fontAlign=60&fontAlignY=45&desc=frontend%20developer&descSize=55&descAlignY=85"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=7DA3FC&height=170&fontSize=110&text=✨kea✨&fontAlign=60&fontAlignY=45&fontColor=FFFFFF&desc=Frontend%20Developer&descSize=50&descAlignY=82"/>
 </p>
+</br>
 <h3 align="center">🛠️ 기술 스택 🛠️</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -21,6 +22,7 @@
 <div align="center">
  <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=20232a" />
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
 </div>
 <!--
  <h3 align="center">🥞 관심 있어요 🥞</h3>
