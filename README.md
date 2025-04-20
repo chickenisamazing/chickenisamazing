@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=150&fontSize=110&text=✨kea✨&fontAlign=60&fontAlignY=45&fontColor=FFFFFF&desc=frontend%20developer&descSize=55&descAlignY=85"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=CEAFE8&height=150&fontSize=110&text=✨kea✨&fontAlign=60&fontAlignY=45&desc=frontend%20developer&descSize=55&descAlignY=85"/>
 </p>
 <h3 align="center">🛠️ 기술 스택 🛠️</h3>
 <div align="center">
